@@ -1,0 +1,27 @@
+GET / HTTP/1.1
+Host: stackoverflow.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+Accept-Charset: utf-8
+Accept-Encoding: gzip
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: private
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 8170dfe898171c60-FRA
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com
+Content-Type: text/html; charset=utf-8
+Date: Mon, 16 Oct 2023 14:08:34 GMT
+Feature-Policy: microphone 'none'; speaker 'none'
+Server: cloudflare
+Set-Cookie: prov=20838721-b3e1-44c2-960b-62e77bd6d63a; expires=Wed, 16 Oct 2024 14:08:34 GMT; domain=.stackoverflow.com; path=/; secure; samesite=none; httponly
+Set-Cookie: __cf_bm=OwBKTZtw9YIKifwOkKwcLgn1wDmTVHLMhOrhuz1Rxgo-1697465314-0-AcmsZuLCvyUBPLAlgRzdvdHJ6MNXxlZ/ZPEGCf7Zi+eKfwR3NJvyQzizQ13ZR1AGyqLpqF4IuE6dW+XhTMBtBj4=; path=/; expires=Mon, 16-Oct-23 14:38:34 GMT; domain=.stackoverflow.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15552000
+Vary: Accept-Encoding
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+X-Request-Guid: 0ef0fbbd-739e-45ca-8e55-6e8cdcb1680c
+X-Stack-Debug: 1
+
+2baf3

@@ -1,0 +1,33 @@
+GET / HTTP/1.1
+Host: instagram.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US) AppleWebKit/528.16 (KHTML, like Gecko, Safari/528.16) OmniWeb/v622.8.0.112941
+Accept-Charset: utf-8
+Accept-Encoding: gzip
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Access-Control-Expose-Headers: X-IG-Set-WWW-Claim
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: private, no-cache, no-store, must-revalidate
+Content-Security-Policy: report-uri https://www.instagram.com/security/csp_report/; default-src 'self' https://www.instagram.com; img-src data: blob: https://*.fbcdn.net https://*.instagram.com https://*.cdninstagram.com https://*.facebook.com https://*.fbsbx.com https://*.threads.net; font-src data: https://*.fbcdn.net https://*.instagram.com https://*.cdninstagram.com; media-src 'self' blob: https://www.instagram.com https://*.cdninstagram.com https://*.fbcdn.net; manifest-src 'self' https://www.instagram.com; script-src 'self' https://instagram.com https://www.instagram.com https://*.www.instagram.com https://*.cdninstagram.com wss://www.instagram.com https://*.facebook.com https://*.fbcdn.net https://*.facebook.net 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' https://*.www.instagram.com https://www.instagram.com 'unsafe-inline'; connect-src 'self' https://instagram.com https://www.instagram.com https://*.www.instagram.com https://graph.instagram.com https://*.graph.instagram.com https://i.instagram.com/graphql_www https://graphql.instagram.com https://*.cdninstagram.com https://api.instagram.com https://i.instagram.com https://*.i.instagram.com https://*.od.instagram.com https://i.threads.net https://*.od.threads.net wss://www.instagram.com wss://edge-chat.instagram.com https://*.facebook.com https://*.fbcdn.net https://*.facebook.net chrome-extension://boadgeojelhgndaghljhdicfkmllpafd blob:; worker-src 'self' blob: https://www.instagram.com; frame-src 'self' https://instagram.com https://www.instagram.com https://*.instagram.com https://staticxx.facebook.com https://www.facebook.com https://web.facebook.com https://connect.facebook.net https://m.facebook.com https://*.fbsbx.com; object-src 'none'; upgrade-insecure-requests
+Content-Type: text/html; charset=utf-8
+Date: Mon, 16 Oct 2023 14:18:22 GMT
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Location: https://www.instagram.com/
+Pragma: no-cache
+Retry-After: 1
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Language
+X-Aed: 133
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ig-Cache-Control: no-cache
+X-Ig-Origin-Region: odn
+X-Ig-Peak-Time: 1
+X-Ig-Push-State: c2
+X-Ig-Request-Elapsed-Time-Ms: 21
+X-Xss-Protection: 0
+Content-Length: 0
+
+
+
